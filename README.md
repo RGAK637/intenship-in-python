@@ -27,7 +27,8 @@ Step 4 : Check the above conditions if true display its valid else get input aga
 
 output
 
-<img src="images/exercise1output">
+<img src="images/exercise1output.phg"> 
+<img src="images/db_exe1.png">
 
 Exercise 2:
 One File A has tax content for multiple states.
@@ -39,10 +40,10 @@ PAN,NAME,DOB,AP,TOTALINCOME,TAXPAID,FNYEAR
 FNYEAR  NAME,PAN,DOB,MH,TAXPAID,TOTALINCOME
 
 sample data should looks like this:
+
 QWERT2685C,28-10-1985,Suellen,6979773.88,71566.11,MH,2019-2020
 
 Moises,8336341.73,28651.91,AP,SDFDF5865B,2013-2014,26-01-1988
-
 
 12-02-1986,Jasmine,3752499.26,46335.2,TN,SDFDF7169B,2012-2013
 
@@ -52,3 +53,5 @@ Create at least 20 records for each state. Have at least 5 states.
 Create a python program that reads this file, parses the fields, connects with ur DB postgres or sql(ur choice)  and inserts into a table.
 Sample output in ur DB should be like below attachment.(all state should be in the same format within one csv).
 ping me if you have any doubts in this.
+
+<img src="images/exe2_output.png">
