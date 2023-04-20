@@ -27,7 +27,7 @@ Step 4 : Check the above conditions if true display its valid else get input aga
 
 output
 
-<img src="images/exercise1output.phg"> 
+<img src="images/exercise1output.png"> 
 <img src="images/db_exe1.png">
 
 Exercise 2:
