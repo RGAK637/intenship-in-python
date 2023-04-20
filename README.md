@@ -27,7 +27,7 @@ Step 4 : Check the above conditions if true display its valid else get input aga
 
 output
 
-<img src="images/
+<img src="images/exercise1output">
 
 Exercise 2:
 One File A has tax content for multiple states.
